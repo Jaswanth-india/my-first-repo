@@ -1,3 +1,3 @@
 # my-first-repo
 Learning git
-Is this change visible
+Is this change not visible.
